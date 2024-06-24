@@ -120,4 +120,6 @@ Si la documentacion lo requiere podemos podemos presentar informacion en formato
  | Fila 1 Celda | Fila 2 Celda | Fila 3 Celda | Fila 4 Celda | 
  | Fila 1 Celda | Fila 2 Celda | Fila 3 Celda | Fila 4 Celda | 
 
- 
+## 9. **Imagenes
+
+Para la vizualisacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo
