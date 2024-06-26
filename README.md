@@ -123,3 +123,4 @@ Si la documentacion lo requiere podemos podemos presentar informacion en formato
 ## 9. **Imagenes
 
 Para la vizualisacion de imagenes debemos cargar los archivos en nuestro repositorio y vincularlo
+[Pika-Pi](pikagit.png)
